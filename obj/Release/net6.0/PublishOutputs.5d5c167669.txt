@@ -1,0 +1,7 @@
+D:\LTI\Dotnetcore6Hello\HelloWorldWeb\bin\Release\net6.0\publish\HelloWorldWeb.exe
+D:\LTI\Dotnetcore6Hello\HelloWorldWeb\bin\Release\net6.0\publish\appsettings.Development.json
+D:\LTI\Dotnetcore6Hello\HelloWorldWeb\bin\Release\net6.0\publish\appsettings.json
+D:\LTI\Dotnetcore6Hello\HelloWorldWeb\bin\Release\net6.0\publish\HelloWorldWeb.dll
+D:\LTI\Dotnetcore6Hello\HelloWorldWeb\bin\Release\net6.0\publish\HelloWorldWeb.deps.json
+D:\LTI\Dotnetcore6Hello\HelloWorldWeb\bin\Release\net6.0\publish\HelloWorldWeb.runtimeconfig.json
+D:\LTI\Dotnetcore6Hello\HelloWorldWeb\bin\Release\net6.0\publish\HelloWorldWeb.pdb
